@@ -4,6 +4,7 @@ a simple python script that can calculate the average height of people in the he
 
 ## overview
 the height.py reads the columns in csv and calculate the average height of people in the height.csv file
+there's also a unit test in test_height.py ensuring functionality
 
 ## Installation
 1. **Clone the Repository**:
